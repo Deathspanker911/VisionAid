@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "
+lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+  <meta name="MobileOptimized" content="width">
+  <meta name="HandheldFriendly" content="true">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" href="http://local.static.edu:8888/themes/contrib/gt_theme/design_packs/curie/favicon.ico" type="image/vnd.microsoft.icon">
+
+  <title>Georgia Tech | Georgia Tecch</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="http://local.static.edu:8888/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="http://local.static.edu:8888/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="http://local.static.edu:8888/favicon-16x16.png">
+  <link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" media="all" href="assets/css/js.css">
+  <link rel="stylesheet" media="all" href="assets/css/font.css">
+  <link rel="stylesheet" media="all" href="assets/css/socmed.css">
+  <link rel="stylesheet" media="all" href="assets/css/bootstrap.css">
+  <link rel="stylesheet" media="all" href="assets/css/gt.css">
+
+
+
+  <!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+
+
+
+</head>
+
+
+<body class="path-user-1 path-user">
+  <a href="#main-navigation" class="visually-hidden focusable">
+  Skip to main navigation
+</a>
+  <a href="#main-content" class="visually-hidden focusable">
+  Skip to main content
+</a>
+
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+
+
+    <header id="gt-header" role="banner">
+      <a href="#main-navigation" class="sr-only">Skip To Keyboard Navigation</a>
+      <div class="navbar-expand-md">
+
+        <div id="gt-header-bg-accent-row">
+          <div class="container">
+            <div id="striped-accent-bar"></div>
+          </div>
+        </div>
+
+        <div id="top-header" class="container-fluid top-background-wrapper">
+          <div class="container">
+            <div class="row">
+              <div class="col-6 col-sm-4 col-md-4 col-lg-3 p-0 d-flex flex-row" id="angle-top-wrapper">
+                <div id="angle-top-goldblock">
+                </div>
+                <div id="angle-top">
+                </div>
+              </div>
+              <div class="col p-0 d-flex flex-row justify-content-end">
+                <div id="ctn-angle" class="d-none d-md-block"></div>
+                <div id="ctn" class="d-none d-md-block">
+                  <img src="assets/images/creating_the_next_gold.svg" alt="Creating the Next">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="middle-header" class="container-fluid middle-background-wrapper">
+          <div class="container wide middle-header-gradient">
+            <div class="row justify-content-between">
+
+              <div class="col-6 col-sm-4 col-md-4 col-lg-3 p-0 d-flex flex-row" id="logo-wrapper">
+                <div id="logo-goldblock">
+                  <div id="gt-logo">
+                    <a href="https://gatech.edu/" title="Georgia Tech">
+                      <img id="gt-logo-image" src="assets/images/gt-logo.svg" alt="Georgia Tech | ">
+                    </a>
+                  </div>
+                </div>
+                <div id="angle-after-logo"></div>
+              </div>
+
+              <div class="col-6 order-md-1 p-0 d-flex justify-content-end">
+                <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#Navbar" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="icon-bar top-bar">&nbsp;</span>
+                  <span class="icon-bar middle-bar">&nbsp;</span>
+                  <span class="icon-bar bottom-bar">&nbsp;</span>
+                  <span class="icon-text">&nbsp;</span>
+                  <span class="sr-only">Toggle navigation</span>
+                </button>
+              </div>
+
+              <div class="col-12 col-sm-12 col-md-8 col-lg-9 p-0 d-flex flex-row align-items-center" id="site-title">
+
+                <div class="site-title-single">
+                  <h2 class="site-name"></h2>
+                </div>
+
+
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <div id="bottom-header" class="container-fluid py-1">
+          <nav id="Navbar" class="container collapse navbar navbar-collapse">
+            <a class="pull-left nav-logo gt-sticky-menu fade-in" href="https://www.gatech.edu/" title="Georgia Tech">
+              <img src="assets/images/gt-logo.svg" style="height:2.5rem" alt="Georgia Tech">
+            </a>
+            <div class="d-md-flex w-100">
+              <a id="main-navigation"></a>
+              <div id="page-navigation" class="main-nav flex-shrink-1" role="navigation" aria-label="Primary" aria-labelledby="main-navigation">
+
+              </div>
+
+              <div id="utility-search-wrapper" class="ml-auto d-sm-block d-md-flex justify-content-end flex-grow-1" role="navigation" aria-label="Secondary">
+                <div class="utility-navigation">
+
+                </div>
+                <div id="search-container">
+                  <div class="search-button relative">
+                    <button class="btn btn-primary fa fa-search" title="open search" role="button" data-toggle="collapse" data-target="#gt-search" aria-expanded="false" aria-controls="expandable">
+                      <span class="sr-only" role="presentation">Open Search</span>
+                    </button>
+                  </div>
+                  <div id="gt-search" class="collapse absolute">
+                    <div class="mx-auto">
+                      <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-curie-search" role="search">
+
+                        <h2>Search</h2>
+
+                        <div class="content container-inline">
+                          <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+                            <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+                              <label for="edit-keys" class="visually-hidden">Search</label>
+                              <input title="Enter the terms you wish to search for." placeholder="Search here..." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" size="15" maxlength="128" class="form-search">
+
+                            </div>
+                            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--2">
+                              <input alt="Search submit" class="btn btn-default button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="GO">
+                            </div>
+
+                          </form>
+
+
+                        </div>
+                      </div>
+
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+
+    <div role="main" class="main-container js-quickedit-main-content gt-body-page">
+
+
+      <div class="container">
+
+        <div id="gt-help" role="complementary">
+
+        </div>
+
+        <div id="gt-breadcrumbs-title" class="breadcrumb-links" role="complementary">
+          <div>
+            <div id="block-curie-page-title">
+
+
+
+              <div id="gt-page-title" role="heading" aria-level="1">
+                <h1 class="page-title"> </h1>
+              </div>
+
+            </div>
+
+            <div class="">
+              <div class="content-inner">
+                <nav class="breadcrumb " role="navigation" aria-labelledby="system-breadcrumb">
+                  <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+                  <ol>
+                    <li>
+
+                      <a href="http://local.static.edu:8888/">Home</a>
+                    </li>
+                  </ol>
+                </nav>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+
+      </div>
+
+
+
+
+      <div class="gt-container container ">
+        <div class="row">
+
+
+          <section class="col-sm-12">
+
+            <div class="highlighted">
+              <div>
+                <div data-drupal-messages-fallback="" class="hidden"></div>
+
+              </div>
+            </div>
+
+            <a id="main-content"></a>
+            <div class="gt-main-content">
+              <div>
+                <div id="block-curie-content">
+
+
+
+                </div>
+
+              </div>
+
+            </div>
+          </section>
+
+
+        </div>
+      </div>
+
+
+
+
+
+    </div>
+
+    <footer id="footer" class="gt-footer footer">
+      <div class="row">
+
+
+        <div class="col-md-12 order-md-12">
+          <div class="container-fluid footer-top-bar d-none d-lg-block">
+          </div>
+          <div id="gt-footer" class="container-fluid footer-bottom-bar">
+            <div class="container pt-3">
+              <div class="row">
+                <div class="col-sm-12 col-md-4 col-lg-3 ctn-footer my-2 order-md-1 order-2">
+                  <div id="address_text">
+                    <h3>Georgia Institute of Technology</h3>
+                    <p> North Avenue
+                      <br> Atlanta, GA 30332
+                      <span itemprop="telephone">
+                                <a class="gt-phone" href="tel:+14048942000" aria-label="telephone">+1 404.894.2000</a>
+                            </span>
+                      <a class="gt-campus-map" href="https://map.gatech.edu/" aria-label="Campus Map">Campus Map</a>
+                    </p>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-3 my-2 order-md-2 order-3">
+                  <div class="d-block d-md-none button-bar">
+                    <button class=" w-100 btn-footer-2" type="button" data-toggle="collapse" data-target="#collapseGeneral" aria-expanded="false" aria-controls="generalcollapse">
+                      General
+                    </button>
+                  </div>
+                  <div class="collapse dont-collapse-sm" id="collapseGeneral">
+                    <div class="well">
+                      <nav role="navigation" aria-label="Footer Links">
+                        <ul role="menu" aria-expanded="false">
+                          <li role="menuitem"><a href="https://directory.gatech.edu/" aria-label="Directory">Directory</a></li>
+                          <li role="menuitem"><a href="https://careers.gatech.edu/" aria-label="Employment">Employment</a></li>
+                          <li role="menuitem"><a href="https://gatech.edu/emergency/" aria-label="Emergency Information">Emergency
+                    Information</a></li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-4 col-lg-3 my-2 order-md-3 order-4">
+                  <div class="d-block d-md-none button-bar">
+                    <button class=" w-100 btn-footer-2" type="button" data-toggle="collapse" data-target="#collapseLegal" aria-expanded="false" aria-controls="legalcollapse">
+                      Legal
+                    </button>
+                  </div>
+                  <div class="collapse dont-collapse-sm" id="collapseLegal">
+                    <div class="well">
+                      <nav role="navigation" aria-label="Footer Links Section Two">
+                        <ul role="menu" aria-expanded="false">
+                          <li role="menuitem"><a href="https://gatech.edu/legal/" aria-label="Legal &amp; Privacy Information">Legal
+                    &amp; Privacy Information</a></li>
+                          <li role="menuitem"><a href="https://gbi.georgia.gov/human-trafficking-notice" aria-label="Human Trafficking Notice">Human Trafficking Notice</a></li>
+                          <li role="menuitem"><a href="https://titleix.gatech.edu/">Title IX/Sexual Misconduct</a></li>
+                          <li role="menuitem"><a href="https://gatech.edu/accessibility/" aria-label="Accessibility">Accessibility</a>
+                          </li>
+                          <li role="menuitem"><a href="https://gatech.edu/accountability/" aria-label="Accountability">Accountability</a></li>
+                          <li role="menuitem"><a href="https://gatech.edu/accreditation/" aria-label="Accreditation">Accreditation</a>
+                          </li>
+                        </ul>
+                      </nav>
+                    </div>
+                  </div>
+                </div>
+                <div id="gt-logo-footer" class="col-sm-12 col-md-12 col-lg-3 my-2 order-md-4 order-1">
+                  <div id="copyright">
+                    <a href="https://www.gatech.edu/" title="Georgia Tech">
+                      <img src="assets/images/gt-logo.svg" alt="Georgia Tech" role="presentation" aria-label="logo link to main campus site">
+                    </a>
+                    <p class="p-1 float-right copyright-hide">© 2021 Georgia Institute of Technology</p>
+                    <p class="gt-login  d-sm-none d-md-block">
+                      <a class="gt-login" href="http://local.tome.gatech.edu:8888/cas" aria-label="admin login">GT LOGIN</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-12 order-md-1">
+          <div class="d-block d-md-none button-bar">
+            <button class="btn-footer w-100" type="button" data-toggle="collapse" data-target="#collapseFooter" aria-expanded="false" aria-controls="footercollapse">
+              Resources
+            </button>
+          </div>
+
+          <div class="collapse dont-collapse-sm" id="collapseFooter">
+            <div class="well">
+              <div id="gt-superfooter" class=" container-fluid gt-black-wrapper">
+                <div class="container pt-4 pb-4">
+                  <div class="row center-block">
+                    <div class="footer-first col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+                      <div>
+                        <div id="block-socialmedialinks" class="block-social-media-links">
+
+
+
+
+                          <ul class="social-media-links--platforms platforms inline horizontal">
+                            <li>
+                              <a class="social-media-link-icon--facebook" href="https://www.facebook.com/https://www.facebook.com/georgiatech">
+                                <span class="fa fa-facebook fa-2x">&nbsp;</span>
+                              </a>
+
+                            </li>
+                            <li>
+                              <a class="social-media-link-icon--instagram" href="https://www.instagram.com/https://instagram.com/georgiatech">
+                                <span class="fa fa-instagram fa-2x">&nbsp;</span>
+                              </a>
+
+                            </li>
+                            <li>
+                              <a class="social-media-link-icon--linkedin" href="https://www.linkedin.com/http://www.linkedin.com/edu/school?id=18158&amp;amp%3Btrk=tyah">
+                                <span class="fa fa-linkedin fa-2x">&nbsp;</span>
+                              </a>
+
+                            </li>
+                            <li>
+                              <a class="social-media-link-icon--twitter" href="https://www.twitter.com/https://twitter.com/georgiatech">
+                                <span class="fa fa-twitter fa-2x">&nbsp;</span>
+                              </a>
+
+                            </li>
+                            <li>
+                              <a class="social-media-link-icon--youtube_channel" href="https://www.youtube.com/channel/http://www.youtube.com/georgiatech">
+                                <span class="fa fa-youtube fa-2x">&nbsp;</span>
+                              </a>
+
+                            </li>
+                          </ul>
+
+                        </div>
+
+                      </div>
+
+                    </div>
+                    <div class="footer-second col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+
+                    </div>
+                    <div class="footer-third col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+
+                    </div>
+                    <div class="footer-four col-lg-3 col-md-3 col-sm-12 col-xs-12 column">
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </footer>
+  </div>
+
+
+  <script src="assets/js/jquery.js"></script>
+  <script src="assets/js/popper.js"></script>
+  <script src="assets/js/bootstrap.js"></script>
+
+
+
+
+</body>
+
+</html>
