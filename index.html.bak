@@ -164,13 +164,14 @@ id="edit-submit--2" value="GO" type="submit"> </div>
                     <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
                     <ol>
                       <li> <a href="https://main.d2xllwuvp5nqt9.amplifyapp.com">Home</a>&nbsp;&nbsp;&nbsp;
+                        <li> <a href="https://main.d2xllwuvp5nqt9.amplifyapp.com">STATS</a>&nbsp;&nbsp;&nbsp;
                         <a href="https://visionaid.org/">Vision-Aid</a>&nbsp;&nbsp;&nbsp;
                         <a <a="" href="https://omscs.gatech.edu/cs-6150-computing-good">CS6150</a>&nbsp;&nbsp;&nbsp;
                         <a href="https://www.cc.gatech.edu/people/santosh-vempala">Dr.
-                          Santosh Vempala</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://main.d2xllwuvp5nqt9.amplifyapp.com/VisionAidScopeV1.pdf"
+                          Santosh Vempala</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1eE7PI1rXBXHjZuFMgO0jBrtdncy5Gykx/view?usp=sharing"
 
                           target="_blank">Scope Documentation</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="https://main.d2xllwuvp5nqt9.amplifyapp.com/VisionAidMtg1.mp4">Meeting
+                        <a href="https://drive.google.com/file/d/1K7TJe2DYcQU2MWIPG9rWxyUAkJ2el3yZ/view?usp=sharing">Meeting
                           #1</a> </li>
                     </ol>
                   </nav>
@@ -357,6 +358,5 @@ id="edit-submit--2" value="GO" type="submit"> </div>
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/popper.js"></script>
     <script src="assets/js/bootstrap.js"></script>
-    
   </body>
 </html>
